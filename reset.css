@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+a, a:hover {
+	text-decoration: none;
+}
+
+ul {
+	margin-bottom: 0 !important;
+	list-style-type: none;
+}
+
+body {
+	font-family: main;
+}
+
+main .container {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.features-wrapper {
+	display: block;
+	width: 100%;
+	height: 70px;
+	background: inherit;
+}
+
+.padding0 {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+.margin0 {
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
